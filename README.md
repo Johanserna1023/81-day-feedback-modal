@@ -2,7 +2,6 @@
 
 # Feedback Modal - Solution
 
-<img src="./screen/desktop.avif" alt="Solucion preview" style="max-width: 100%; height: auto;">
 
 Esta es una solución del proyecto **Feedback Modal** como parte del reto de codificación #100DaysOfProjects [Front End Club](https://www.facebook.com/frontendclubfb). La mejor manera de escribir un buen código es programando todos los días🔥.
 
